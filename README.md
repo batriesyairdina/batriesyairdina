@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **batriesyairdina@yahoo.com**
 
-- ⚡ Fun fact **I am a crochet enthusiast**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/batriesyairdina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batriesyairdina" height="30" width="40" /></a>
